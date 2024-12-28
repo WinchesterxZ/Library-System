@@ -53,4 +53,5 @@ Here's what our icons mean:
 
 ## Sample Output
 
+![image](https://github.com/user-attachments/assets/a46e63c6-200f-40ff-9f70-36ba02031fc3)
 
