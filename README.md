@@ -49,9 +49,9 @@ Here's what our icons mean:
 | 👤 | User related stuff |
 | ✅ | Success message |
 | ❌ | Error/Failure message |
-| 😕 | Not found |
 
 ## Sample Output
 
-![image](https://github.com/user-attachments/assets/a46e63c6-200f-40ff-9f70-36ba02031fc3)
+![image](https://github.com/user-attachments/assets/204a69ae-67a1-434c-9ddf-e1549e8461e4)
+
 
